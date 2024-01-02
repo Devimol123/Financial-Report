@@ -7,3 +7,6 @@ The primary goal of this portfolio project is to leverage a financial dataset to
 # Conclusion
 A well executed portfolio project using a financial dataset umderscores the ability to handle complex financial data, extract meaningful insights, and communicate findings effectively, showcasing proficiency in data analysis and visualization within the financial domain.
 
+![Financial dataset dashboard1](https://github.com/Devimol123/Financial-Report/assets/154596511/1b6c2069-24b7-4e15-9e18-85c9ac8a739d)
+![Financial dataset dashboard2](https://github.com/Devimol123/Financial-Report/assets/154596511/4ce3b0e0-b500-4d2a-bd5b-6a6daa69d76b)
+![Financial dataset dashboard3](https://github.com/Devimol123/Financial-Report/assets/154596511/edeb4878-49ef-4cdf-b868-9912da57c897)
